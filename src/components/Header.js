@@ -1,4 +1,4 @@
-import react from 'react';
+import React from 'react';
 import './Header.css';
 
 // eslint-disable-next-line import/no-anonymous-default-export
