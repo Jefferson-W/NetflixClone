@@ -1,5 +1,5 @@
 import React from 'react';
-import './Header.css';
+import './styles.css';
 
 // eslint-disable-next-line import/no-anonymous-default-export
 export default ({ black }) => {
