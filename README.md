@@ -29,6 +29,7 @@ Abra seu browser e acesse o link abaixo:
     <img src="src/assets/projeto.png" width="500" alt="Netflix">
     </p>
 
+Deploy do projeto em: [https://netflix-clonejeff.netlify.app/](https://netflix-clonejeff.netlify.app/)
 
 ### Feito Com
 
